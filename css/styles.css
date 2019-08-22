@@ -119,8 +119,7 @@ padding: 4.5%;
 .car-img
 {
 border-radius: 80%;
-max-width: 40%;
-max-height: 40%;
+height: 40%;
 position: absolute;
 margin-left:260px;
 
@@ -141,13 +140,13 @@ text-align:center;
 }
 #pricing{
 text-align: center;
-padding:7% 15% 10%;
+padding:10% 15%;
 
 }
 .card-header
 {
-    padding: 25px;
-    margin-bottom: 0;
+
+
     background-color: #FFF;
     border-bottom: 1px solid
 }
@@ -164,4 +163,9 @@ text-align: center;
 margin: 5% 3% 5% 0;
 color:#ff4c68;
 font-weight: lighter;
+}
+
+.price-table{
+
+
 }
