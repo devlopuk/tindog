@@ -137,7 +137,7 @@ text-align:center;
 	margin:0px 10px 50px;
 
 }
-#pricing{ 
+#pricing{
 text-align: center;
 padding:10% 10%;
 
@@ -159,8 +159,13 @@ padding:10% 10%;
 }
 #footer{
 text-align: center;
-margin: 5% 3% 5% 0;
+margin: 5% 3% 1%;
 color:#ff4c68;
+font-size: 2em;
+letter-spacing: 0.5em;
+}
+.copyright{
+text-align: center;
 font-weight: lighter;
 }
 
